@@ -1,0 +1,2 @@
+# Emipa-WHOIS-SSL-ve-DNS-Sorgu-Sistemi---Emipa-WHOIS-SSL-and-DNS-Query-System
+Emipa, hosting firmalarında teknik destek personelleri için geliştirilmiş bir paneldir. WHOIS, SSL, DNS sorguları yapar mola ve hazır yanıt yönetimi sunar. Çoklu kullanıcı desteği ve güvenlik araçları içerir / Emipa is a panel for hosting support, offering WHOIS, SSL, DNS queries, break and response management, multi-user support and security tools
