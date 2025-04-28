@@ -6,7 +6,7 @@ Emipa – PHP İş Yönetim Paneli
 
 **Emipa**, hosting firmalarında görev yapan teknik destek personellerinin iş süreçlerini kolaylaştırmak için geliştirilmiş kapsamlı bir paneldir. Panel; sorgulama, veri kaydı, mola takibi ve içerik yönetimini bir araya getirerek destek kalitesini artırmayı hedefler.
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-21.14.58.png)
+![](screenshots/tr-1.png)
 
 1\. WHOIS, SSL ve DNS Sorgu Sistemi
 -----------------------------------
@@ -19,11 +19,11 @@ Emipa – PHP İş Yönetim Paneli
 
 ### Ekran Görüntüsü:
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-21.17.09.png)
+![](screenshots/tr-2.png) 
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-21.17.36.png)
+![](screenshots/tr-3.png) 
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-21.19.24.png)
+![](screenshots/tr-4.png)
 
 * * *
 
@@ -36,7 +36,7 @@ Emipa – PHP İş Yönetim Paneli
 
 ### Ekran Görüntüsü:
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-21.20.54.png)
+![](screenshots/tr-5.png)
 
 * * *
 
@@ -51,7 +51,7 @@ Emipa – PHP İş Yönetim Paneli
 
 ### Ekran Görüntüsü:
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-21.22.06.png)
+![](screenshots/tr-6.png)
 
 * * *
 
@@ -67,9 +67,9 @@ Emipa – PHP İş Yönetim Paneli
 
 ### Ekran Görüntüsü:
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-21.29.03.png)
+![](screenshots/tr-7.png)
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-21.29.29.png)
+![](screenshots/tr-8.png)
 
 * * *
 
@@ -84,7 +84,7 @@ Emipa – PHP İş Yönetim Paneli
 
 ### Ekran Görüntüsü:
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-21.32.23.png)
+![](screenshots/tr-9.png)
 
 * * *
 
@@ -93,25 +93,25 @@ Emipa – PHP İş Yönetim Paneli
 
 **Hazır Test Kodları:** Çeşitli testler için hazırlanmış hazır dosyalar.
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-21.32.56.png)
+![](screenshots/tr-10.png)
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-21.33.22.png)
+![](screenshots/tr-11.png)
 
 **Şifre Oluşturucu:** Güçlü, rastgele şifreler üretir
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-22.09.58.png)
+![](screenshots/tr-12.png)
 
 **IDN Çevirici:** Uluslararası alan adlarını ASCII formatına çevirir
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-21.33.55.png)
+![](screenshots/tr-13.png)
 
 **WordPress Hash Üretici:** `wp_hash_password()` uyumlu şifreler üretir
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-21.38.23.png)
+![](screenshots/tr-14.png)
 
 **Base64 Oluşturucu:** Görselleri veya metinleri base64 formatına dönüştürür
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-21.34.32.png)
+![](screenshots/tr-15.png)
 
 ---------------------------------
 
@@ -124,7 +124,7 @@ Emipa – PHP Work Management Panel
 
 **Emipa** is a comprehensive web-based tool built for technical support agents in hosting companies. It combines domain checks, SSL validation, DNS propagation analysis, internal content management, and break tracking into one smart interface.
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-21.51.34.png)
+![](screenshots/en-1.png)
 
 1\. WHOIS, SSL, and DNS Query System
 ------------------------------------
@@ -137,11 +137,11 @@ Emipa – PHP Work Management Panel
 
 ### Screenshot:
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-22.04.36.png)
+![](screenshots/en-2.png)
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-22.05.10.png)
+![](screenshots/en-3.png)
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-22.06.57.png)
+![](screenshots/en-4.png)
 
 * * *
 
@@ -154,9 +154,9 @@ Emipa – PHP Work Management Panel
 
 ### Screenshot:
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-22.01.35.png)
+![](screenshots/en-5.png)
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-22.03.07.png)
+![](screenshots/en-6.png)
 
 * * *
 
@@ -171,7 +171,7 @@ Emipa – PHP Work Management Panel
 
 ### Screenshot:
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-22.00.41.png)
+![](screenshots/en-7.png)
 
 * * *
 
@@ -188,9 +188,9 @@ Emipa – PHP Work Management Panel
 
 ### Screenshot:
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-21.56.53.png)
+![](screenshots/en-8.png)
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-22.08.33.png)
+![](screenshots/en-9.png)
 
 * * *
 
@@ -205,7 +205,7 @@ Emipa – PHP Work Management Panel
 
 ### Screenshot:
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-21.58.46.png)
+![](screenshots/en-10.png)
 
 * * *
 
@@ -214,22 +214,22 @@ Emipa – PHP Work Management Panel
 
 **Scripts for Test:** Scripts prepared for various tests.
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-21.48.16.png)
+![](screenshots/en-11.png)
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-21.48.36.png)
+![](screenshots/en-12.png)
 
 **Password Generator** – Generates secure, random passwords
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-21.47.20.png)
+![](screenshots/en-13.png)
 
 **IDN Converter** – Converts internationalized domains to ASCII
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-21.46.28.png)
+![](screenshots/en-14.png)
 
 **WordPress Hash Generator** – Generates wp-compatible hashed passwords
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-21.45.19.png)
+![](screenshots/en-15.png)
 
 **Base64 Converter** – Converts images or text to base64
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-21.45.45.png)
+![](screenshots/en-16.png)
